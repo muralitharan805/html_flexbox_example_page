@@ -6,3 +6,42 @@
 .text-primary{
   color: rgb(63, 79, 221);
 }
+
+
+.btn{
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  color: antiquewhite;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  opacity: 0.8;
+}
+
+.btn-primary{
+  
+  color: antiquewhite;
+  background-color: rgb(6, 151, 71);
+}
+
+.btn-secondary{
+  
+  color: antiquewhite;
+  background-color: rgb(133, 36, 89);
+}
+
+.btn-dark{
+  
+  color: antiquewhite;
+  background-color: rgb(74, 6, 151);
+}
+
+.btn-light{
+  
+  color: antiquewhite;
+  background-color: rgb(138, 55, 73);
+}
