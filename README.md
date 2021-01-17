@@ -1,4 +1,4 @@
 # html_flexbox_example_page
 
 
-html float example page
+html flex example page
